@@ -38,7 +38,7 @@ Week 3: Implement object representation and collision detection.
 
 Week 4: Add 3D rendering component and user interface and Final testing and bug fixing.
 
-### This is a 1 month project ho I finish in the given time.
+### This is a 1 month project. Hope I finish this project in the given time.
 
 
 ## Authors
