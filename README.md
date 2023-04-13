@@ -15,7 +15,7 @@ Physics engine core 🔧: This will include the core physics simulation logic, s
 
 Object representation 🧱: This will define how different types of objects are represented in the simulation, including rigid bodies, particles, and soft bodies.
 
-3D rendering 🌅: This will handle the visualization of the simulation results in a 3D environment.
+2D rendering 🌅: This will handle the visualization of the simulation results in a 2D environment.
 
 Input/output 💻: This will provide the user interface for configuring the simulation parameters and importing/exporting object data.
 
